@@ -1,1 +1,2 @@
-# proyecto_gamer
+# Proyecto Gamer
+## Planeación Trello 
